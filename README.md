@@ -42,7 +42,7 @@ You can see the sequence generated [here](https://drive.google.com/file/d/1WV0EG
 <img width="234" alt="image" src="https://user-images.githubusercontent.com/76990931/194726764-411311d9-4f01-41f3-b3f3-fc21b5bd3de1.png">
 </p>
   
-An additional capability to export the Socket Data i.e. the  pose for each joint in the environment has been added to C# code base. Detailed steps for integrating this in mentioned in [Documentation]()
+An additional capability to export the Socket Data i.e. the  pose for each joint in the environment has been added to C# code base. Detailed steps for integrating this in mentioned in [Documentation](https://github.com/JBVAkshaya/KinovaArmUE4/blob/main/Documentation.pdf)
   
 ### Generate Data
   
@@ -50,7 +50,7 @@ An additional capability to export the Socket Data i.e. the  pose for each joint
   - A .json file containing the camera intrinsic parameters
   - Image corresponding to each frame as captured by the camera
   
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/76990931/194726956-5b053138-c8e1-445d-97f6-02f709c7d36f.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/76990931/194727017-3095fbc9-34c1-47af-9ebb-0fc16acfc847.png">
+<img width="490" alt="image" src="https://user-images.githubusercontent.com/76990931/194726956-5b053138-c8e1-445d-97f6-02f709c7d36f.png"> <img width="490" alt="image" src="https://user-images.githubusercontent.com/76990931/194727017-3095fbc9-34c1-47af-9ebb-0fc16acfc847.png">
 
 
 
